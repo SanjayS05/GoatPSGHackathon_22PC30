@@ -63,8 +63,3 @@ fleet_management_system/
 -- Once we click in the available robots tab, the robot info that we want is displayed and we can even delete the robot of our choice
 
 ![image](https://github.com/user-attachments/assets/db330f91-8e59-483f-99ba-18092111b5dc)
-
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
