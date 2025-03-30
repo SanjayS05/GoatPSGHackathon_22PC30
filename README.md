@@ -48,7 +48,12 @@ fleet_management_system/
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/483748dc-51eb-4682-a912-9dcfdfa593df)
+![image](https://github.com/user-attachments/assets/f14adac9-6d90-4f66-8460-05fc730cc1c1)
+
+![image](https://github.com/user-attachments/assets/4110cba3-d0ae-40cb-82a9-d853d18e0b95)
+
+![image](https://github.com/user-attachments/assets/f6a5f7b1-e194-4af9-8ae9-34cc62c71b4a)
+
 
 ## License
 
