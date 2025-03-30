@@ -14,9 +14,12 @@ class NavGraph:
         try:
             with open(file_path, 'r') as file:
                 data = json.load(file)
-                level = data["levels"]["level1"]
-                self.vertices = [(v[0], v[1], v[2].get("name", "")) for v in level["vertices"]]
-                self.lanes = [(l[0], l[1]) for l in level["lanes"]]
+                # Get the first available level from the levels dictionary
+                if not data.get("levels"):
+                    raise KeyError("levels")
+                first_level = next(iter(data["levels"].values()))
+                self.vertices = [(v[0], v[1], v[2].get("name", "")) for v in first_level["vertices"]]
+                self.lanes = [(l[0], l[1]) for l in first_level["lanes"]]
         except FileNotFoundError:
             print(f"Error: Could not find navigation graph file at {file_path}")
             raise

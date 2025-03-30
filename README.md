@@ -27,8 +27,9 @@ pip install -r requirements.txt
 ```
 3. Run the program
 ```bash
-python src/main.py
-``` 
+python src/main.py --graph {graph_number}
+```
+graph_number - to specify either nav_graph_1 or nav_graph_2 or nav_graph_3
 ## Project Structure
 
 ```
