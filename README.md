@@ -66,3 +66,6 @@ fleet_management_system/
 -- Once we click in the available robots tab, the robot info that we want is displayed and we can even delete the robot of our choice
 
 ![image](https://github.com/user-attachments/assets/db330f91-8e59-483f-99ba-18092111b5dc)
+
+# Video Walkthrough
+https://www.loom.com/share/3e0682403ac242feb1369cdbe7be9e76?sid=d467565d-f18d-4532-a3c9-52409629b3f7
