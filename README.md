@@ -18,15 +18,17 @@ This system allows users to:
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository
 
-3. Install required dependencies:
-
+2. 
 ```bash
 cd fleet_management_system
 pip install -r requirements.txt
 ```
-
+3. Run the program
+```bash
+python src/main.py
+``` 
 ## Project Structure
 
 ```
