@@ -47,12 +47,14 @@ fleet_management_system/
 - Data processing capabilities
 
 ## Screenshots
-
+-- This is the GUI of the fleet management system.
 ![image](https://github.com/user-attachments/assets/f14adac9-6d90-4f66-8460-05fc730cc1c1)
 
 ![image](https://github.com/user-attachments/assets/4110cba3-d0ae-40cb-82a9-d853d18e0b95)
 
 ![image](https://github.com/user-attachments/assets/f6a5f7b1-e194-4af9-8ae9-34cc62c71b4a)
+
+![image](https://github.com/user-attachments/assets/db330f91-8e59-483f-99ba-18092111b5dc)
 
 
 ## License
