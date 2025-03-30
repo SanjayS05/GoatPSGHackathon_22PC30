@@ -48,7 +48,7 @@ fleet_management_system/
 
 ## Screenshots
 
-image.png
+![image](https://github.com/user-attachments/assets/483748dc-51eb-4682-a912-9dcfdfa593df)
 
 ## License
 
